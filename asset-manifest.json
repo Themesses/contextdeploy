@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/contextpractice/static/js/main.ee7dd455.chunk.js",
+    "main.js.map": "/contextpractice/static/js/main.ee7dd455.chunk.js.map",
+    "runtime-main.js": "/contextpractice/static/js/runtime-main.acb614e2.js",
+    "runtime-main.js.map": "/contextpractice/static/js/runtime-main.acb614e2.js.map",
+    "static/js/2.fa554744.chunk.js": "/contextpractice/static/js/2.fa554744.chunk.js",
+    "static/js/2.fa554744.chunk.js.map": "/contextpractice/static/js/2.fa554744.chunk.js.map",
+    "index.html": "/contextpractice/index.html",
+    "static/js/2.fa554744.chunk.js.LICENSE.txt": "/contextpractice/static/js/2.fa554744.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.acb614e2.js",
+    "static/js/2.fa554744.chunk.js",
+    "static/js/main.ee7dd455.chunk.js"
+  ]
+}
